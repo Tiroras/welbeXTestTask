@@ -1,0 +1,1 @@
+export {VehicleInfoScreen} from './VehicleInfoScreen';

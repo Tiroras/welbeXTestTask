@@ -1,0 +1,202 @@
+[
+	{
+		"id": 1,
+		"driverName": "Doris Cabrera",
+		"category": "special",
+		"phone": "8(977)288-08-47",
+		"pos": {
+			"x": 55.771383, 
+			"y": 37.641557
+		}
+	},
+	{
+		"id": 2,
+		"driverName": "Madeline Delacruz",
+		"category": "special",
+		"phone": "+7(932)348-86-45",
+		"pos": {
+			"x": 55.791633, 
+			"y": 37.655213
+		}
+	},
+	{
+		"id": 3,
+		"driverName": "Violet Rowland",
+		"category": "cargo",
+		"phone": "8(983)201-78-38",
+		"pos": {
+			"x": 55.772025, 
+			"y": 37.496907
+		}
+	},
+	{
+		"id": 4,
+		"driverName": "Felix Michael",
+		"category": "cargo",
+		"phone": "+7(978)989-04-53",
+		"pos": {
+			"x": 55.730634, 
+			"y": 37.545803
+		}
+	},
+	{
+		"id": 5,
+		"driverName": "Cailin Pope",
+		"category": "passenger",
+		"phone": "+7(963)609-11-56",
+		"pos": {
+			"x": 55.729848, 
+			"y": 37.624248
+		}
+	},
+	{
+		"id": 6,
+		"driverName": "Devin Brooks",
+		"category": "passenger",
+		"phone": "+7(900)916-61-84",
+		"pos": {
+			"x": 55.759572, 
+			"y": 37.692800
+		}
+	},
+	{
+		"id": 7,
+		"driverName": "Troy Stafford",
+		"category": "special",
+		"phone": "8(915)310-10-38",
+		"pos": {
+			"x": 55.794129,
+			"y": 37.696542
+		}
+	},
+	{
+		"id": 8,
+		"driverName": "Joelle Reeves",
+		"category": "special",
+		"phone": "+7(982)275-85-50",
+		"pos": {
+			"x": 55.701327, 
+			"y": 37.569613
+		}
+	},
+	{
+		"id": 9,
+		"driverName": "Michelle Randall",
+		"category": "cargo",
+		"phone": "+7(935)256-43-47",
+		"pos": {
+			"x": 55.752876, 
+			"y": 37.596869
+		}
+	},
+	{
+		"id": 10,
+		"driverName": "Nina Holden",
+		"category": "cargo",
+		"phone": "+7(914)913-31-58",
+		"pos": {
+			"x": 55.677060, 
+			"y": 37.526701
+		}
+	},
+	{
+		"id": 11,
+		"driverName": "Akeem Stanley",
+		"category": "passenger",
+		"phone": "89922639282",
+		"pos": {
+			"x": 55.845060, 
+			"y": 37.670531
+		}
+	},
+	{
+		"id": 12,
+		"driverName": "Nevada Mullen",
+		"category": "passenger",
+		"phone": "+7(952)377-12-33",
+		"pos": {
+			"x": 55.693854, 
+			"y": 37.492292
+		}
+	},
+	{
+		"id": 13,
+		"driverName": "Prescott French",
+		"category": "special",
+		"phone": "8(958)471-42-36",
+		"pos": {
+			"x": 55.692887, 
+			"y": 37.735785
+		}
+	},
+	{
+		"id": 14,
+		"driverName": "Christen Humphrey",
+		"category": "special",
+		"phone": "8(971)614-78-62",
+		"pos": {
+			"x": 55.640797, 
+			"y": 37.628381
+		}
+	},
+	{
+		"id": 15,
+		"driverName": "Patience Valentine",
+		"category": "cargo",
+		"phone": "89335811123",
+		"pos": {
+			"x": 55.748456,
+			"y": 37.414987
+		}
+	},
+	{
+		"id": 16,
+		"driverName": "Fitzgerald Daugherty",
+		"category": "cargo",
+		"phone": "89143821247",
+		"pos": {
+			"x": 55.764689, 
+			"y": 37.784964
+		}
+	},
+	{
+		"id": 17,
+		"driverName": "Latifah Ochoa",
+		"category": "passenger",
+		"phone": "89186761072",
+		"pos": {
+			"x": 55.604737, 
+			"y": 37.589374
+		}
+	},
+	{
+		"id": 18,
+		"driverName": "Kristen Puckett",
+		"category": "passenger",
+		"phone": "89404140861",
+		"pos": {
+			"x": 55.812442, 
+			"y": 37.397464
+		}
+	},
+	{
+		"id": 19,
+		"driverName": "Patrick Phillips",
+		"category": "special",
+		"phone": "8(988)801-58-48",
+		"pos": {
+			"x": 55.831117, 
+			"y": 37.699824
+		}
+	},
+	{
+		"id": 20,
+		"driverName": "Hoyt Mason",
+		"category": "special",
+		"phone": "+7(966)642-57-18",
+		"pos": {
+			"x": 55.853347, 
+			"y": 37.519434
+		}
+	}
+]
